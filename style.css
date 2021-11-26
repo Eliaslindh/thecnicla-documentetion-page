@@ -13,6 +13,7 @@ body {
     background-color: rgba(10,10, 10);
 }
 
+
 .material-icons {
     height: 80px;
     width: 10px;
@@ -23,7 +24,6 @@ span {
     color: rgb(233, 0, 116);
     
 }
-
 
 
 a {
@@ -44,17 +44,17 @@ a {
 }
 
 
-
-
 #main-doc {
     display: flex;
     flex-direction: column;
     padding: 2rem;
 }
 
+
 .main-section {
     gap: 20px;
 }
+
 
 p {
     font-size: 1rem;
@@ -62,12 +62,14 @@ p {
     color: white;
 }
 
+
 header {
     font: 300;
     font-size: 2rem;
     margin: 1.5rem;
     color: white;
 }
+
 
 code {
     display: block;
@@ -84,6 +86,7 @@ code {
     border-radius: 5px;
   }
 
+
  li {
      font-size: 1rem;
       margin-top: 1.5rem;
@@ -92,10 +95,6 @@ code {
   }
 
   
-
-
-
-
   @media only screen and (max-width: 815px) {
     /* For mobile phones: */
     #navbar ul {
@@ -108,6 +107,7 @@ code {
         font-size: 1rem;
     }
   
+
     #navbar {
         background-color: rgba(10,10, 10);
       margin-bottom: 15rem;
@@ -120,6 +120,7 @@ code {
      border: none;
      border-bottom: 2px solid rgb(233, 0, 116);
     }
+
   
     #main-doc {
      position: absolute;
